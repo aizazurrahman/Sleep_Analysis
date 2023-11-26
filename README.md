@@ -1,4 +1,6 @@
 # Sleep_Analysis
+  I decided to take on this project when I watched Joe Roegan's podcast on importance of sleep with Matthew Walker, Director of the Center for Human Sleep Science (20 sec clip here - https://www.youtube.com/shorts/gDYYqXcYuJQ , full 2 hour video here - https://www.youtube.com/watch?v=pwaWilO_Pig).  
+  
   Analyzing my sleep patterns with 6 years of Samsung Health sleep data gathered from Aug-18 to Mar-23. Surprising findings - less than 5 hours of average sleep reacorded over entire timeline of 6 years. Go to 'Sleep Analysis.ipynb' for details and visualizations. Dataset hidden for privacy reasons as it contains my everyday sleep data for last 6 years. You can request it by email to mart.q6@gmail.com
 
 ![Average Sleep by Month](https://github.com/aizazurrahman/Sleep_Analysis/assets/99770920/087a007f-a1fe-4a65-b233-c9338c7a0431)
