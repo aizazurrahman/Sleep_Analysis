@@ -12,4 +12,4 @@
   Challenges include aligning data from multiple different timezones, managing time-series analysis and data quality issues due to data discrepancies from multiple data sourcing devices (different versions of watch with 
   different software)
 ## Data Quality Issues
-  Data-quality issues include inconsistent field data-types due to multiple software upgrades and device upgrades over the years.
+  Data-quality issues include inconsistent field data-types due to multiple software upgrades and device upgrades over the years
